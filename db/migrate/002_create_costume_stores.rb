@@ -10,4 +10,5 @@ class CreateCostumeStore < ActiveRecord::Migration
       t.boolean :still_in_business
       t.timestamps
   end
+end 
 end
